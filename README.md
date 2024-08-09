@@ -34,6 +34,7 @@ docker push yourRegistryName.azurecr.io/your-repository-name:tag
 ```
   - **Step 2**: Create an Azure Container Instance
 Once your image is in a registry, you can create a container instance:
+
 -- Log in to Azure:
 ```
 az login
